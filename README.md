@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi! I'm Ashley D. Piamonte, a BSIT student passionate about web development and design.
+Hi! I'm Ashley D. Piamonte, a BSIT student and future Business Analyst passionate about leveraging technology and data to solve business problems.
 
 - 🌱 Learning Object Oriented Programming
 - 💻 Building simple static sites or single-page web applications using HTML, CSS, and JavaScript.
