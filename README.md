@@ -1,16 +1,26 @@
-## Hi there 👋
+# John Smith
 
-<!--
-**ashleypiamonte/ashleypiamonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BSIT Student | Web Developer | UI/UX Enthusiast
 
-Here are some ideas to get you started:
+✨ Creating elegant digital experiences through creativity and technology ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Hi! I'm John Smith, a BSIT student passionate about web development and design.
+
+- 🌱 Learning React and Node.js
+- 💻 Building web applications
+- 🎨 Interested in UI/UX Design
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+## Connect With Me
+
+- Portfolio: https://yourwebsite.com
+- Email: your@email.com
