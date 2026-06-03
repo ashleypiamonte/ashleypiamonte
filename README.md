@@ -1,6 +1,6 @@
 # Ashley D. Piamonte
 
-### BSIT Student | Aspiring Business Analyst |  UI/UX Enthusiast
+### BSIT Student | UI/UX Enthusiast | Aspiring Business Analyst
 
 ## About Me
 
@@ -20,5 +20,5 @@ Hi! I'm Ashley D. Piamonte, a BSIT student and future Business Analyst passionat
 
 ## Connect With Me
 
-- Portfolio: 
+- Portfolio: https://ashleypiamonte.github.io/
 - Email: piamonteashley214@gmail.com
