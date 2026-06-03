@@ -1,24 +1,24 @@
 # Ashley D. Piamonte
 
-### BSIT Student 
+### BSIT Student | Aspiring Business Analyst |  UI/UX Enthusiast
 
 ## About Me
 
 Hi! I'm Ashley D. Piamonte, a BSIT student passionate about web development and design.
 
-- 🌱 Learning React and Node.js
-- 💻 Building web applications
+- 🌱 Learning Object Oriented Programming
+- 💻 Building simple static sites or single-page web applications using HTML, CSS, and JavaScript.
 - 🎨 Interested in UI/UX Design
 
-## Skills
+## Toolkit
 
-- 
+- JAVA
+- BOOTSTRAP
+- HTML
 - CSS
-- JavaScript
-- PHP
 - MySQL
 
 ## Connect With Me
 
-- Portfolio: https://yourwebsite.com
-- Email: your@email.com
+- Portfolio: 
+- Email: piamonteashley214@gmail.com
