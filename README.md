@@ -1,12 +1,10 @@
-# John Smith
+# Ashley D. Piamonte
 
-### BSIT Student | Web Developer | UI/UX Enthusiast
-
-✨ Creating elegant digital experiences through creativity and technology ✨
+### BSIT Student 
 
 ## About Me
 
-Hi! I'm John Smith, a BSIT student passionate about web development and design.
+Hi! I'm Ashley D. Piamonte, a BSIT student passionate about web development and design.
 
 - 🌱 Learning React and Node.js
 - 💻 Building web applications
@@ -14,7 +12,7 @@ Hi! I'm John Smith, a BSIT student passionate about web development and design.
 
 ## Skills
 
-- HTML
+- 
 - CSS
 - JavaScript
 - PHP
